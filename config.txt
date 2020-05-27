@@ -1,0 +1,1 @@
+timeSleep 1 reposts 5 link https://vk.com/ sleep 0.01
